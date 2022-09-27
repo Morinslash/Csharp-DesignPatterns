@@ -4,7 +4,7 @@
 ## The intent of the builder pattern is  to separate the construction of a complex object from its representation. By doing so, the same construction process can create different representations.
 
 ## Diagram:
-
+![img.png](img.png)
 ---
 ### Use:
 - Make an algorithm for creating a complex object independent of the parts that make up the object and how they're assembled

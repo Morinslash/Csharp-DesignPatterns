@@ -6,7 +6,7 @@
 ### It's important to distinguish that we use the Decorator Pattern to add functionality to an instance of a class at runtime (object) not to the class itself.
 
 ## Diagram:
-
+![img.png](img.png)
 ---
 ### Use:
 - Need to add behaviours to objects at runtime without affecting other objects

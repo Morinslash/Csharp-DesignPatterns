@@ -3,8 +3,8 @@
 ---
 ## The intent of this pattern is to specify the kinds of objects to create using a prototypical instance, and  create new objects by copying this prototype.
 
-## Design:
-
+## Diagram:
+![img.png](img.png)
 ---
 ### Use:
 - System should be independent of how its objects are created, and to avoid building a set of factories that mimics the class hierarchy

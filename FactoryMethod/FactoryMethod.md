@@ -4,7 +4,7 @@
 ## The intent of the factory method pattern is to define an interface for creating an object, but to le subclasses decide which class to instantiate. Factory method lets a class defer instantiation to subclasses.
 
 ## Diagram:
-
+![img.png](img.png)
 ---
 
 ### Use:

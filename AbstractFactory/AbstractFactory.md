@@ -4,7 +4,7 @@
 ## The intent of the abstract factory pattern is to provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ## Diagram:
-
+![img.png](img.png)
 ---
 ### Use:
 - System should be independent of how its products are created, composed and represented

@@ -4,7 +4,7 @@
 ## Intent is to decouple an abstraction from its implementation so the two can vary independently.
 
 ## Diagram:
-
+![img.png](img.png)
 ---
 ### Use:
 - Avoid a permanent binding of abstraction and implementation (switch at run time)
