@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{781E137E-130B-4E97-A7BF-3407C26F82B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{1063FCE6-2186-45D3-99AA-227DFE49ADB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,6 +68,7 @@ Global
 		{F656F1DB-5DB7-44C7-A559-8AA6B2004781} = {D7A66174-588C-48AC-9ACE-018BFA4BB103}
 		{2EC38F93-FB50-42B5-83D3-10B071A5AC20} = {D7A66174-588C-48AC-9ACE-018BFA4BB103}
 		{781E137E-130B-4E97-A7BF-3407C26F82B9} = {D7A66174-588C-48AC-9ACE-018BFA4BB103}
+		{1063FCE6-2186-45D3-99AA-227DFE49ADB2} = {D7A66174-588C-48AC-9ACE-018BFA4BB103}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A8B2A949-8193-4C79-BF06-55BB9F0C3F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -140,5 +143,9 @@ Global
 		{781E137E-130B-4E97-A7BF-3407C26F82B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781E137E-130B-4E97-A7BF-3407C26F82B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781E137E-130B-4E97-A7BF-3407C26F82B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1063FCE6-2186-45D3-99AA-227DFE49ADB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1063FCE6-2186-45D3-99AA-227DFE49ADB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1063FCE6-2186-45D3-99AA-227DFE49ADB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1063FCE6-2186-45D3-99AA-227DFE49ADB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
