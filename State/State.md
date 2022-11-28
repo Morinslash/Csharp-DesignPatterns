@@ -1,4 +1,4 @@
-# Memento
+# State
 
 ---
 ## The intent of this pattern is to allow an object to alter its behavior when its internal state changes. The object will appear to change its class.

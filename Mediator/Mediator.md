@@ -1,4 +1,4 @@
-﻿# Command
+﻿# Mediator
 
 ---
 ## The intent of this pattern is to define an object - the mediator - that encapsulates how a set of objects interact. It does that by forcing objects to communicate via that mediator.

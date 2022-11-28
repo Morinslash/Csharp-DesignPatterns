@@ -1,4 +1,4 @@
-# Memento
+# Observer
 
 ---
 ## The intent of this pattern is to define a one-to-many dependencies between objects so that when one object changes state, all its dependents aer notified and updated automatically.
